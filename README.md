@@ -1,5 +1,5 @@
 # Rush_MVC
-Rush MMVC de 3 jours
+Rush MVC de 3 jours
 - Creation d'un blog en PHP POO avec le patern MVC
 - Inscription / Login 
 - Creation d'un espace Admin
